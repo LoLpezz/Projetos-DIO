@@ -7,3 +7,5 @@ Dentro da pasta SiteCompleto-HTML você irá encontrar outro site que também fo
 
 ## Site Completo HTML
 <img src="https://github.com/LoLpezz/Projetos-DIO/blob/main/Site%20HTML.png">
+
+<hr>
