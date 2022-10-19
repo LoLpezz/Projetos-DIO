@@ -10,5 +10,5 @@ Dentro da pasta SiteCompleto-HTML você irá encontrar outro site que também fo
 
 <hr>
 <h2>Landing Page</h2>
-<p>Na pasta landing page você irá encontrar o desafio feito que é construir uma page na DIO divulgando o curso CSS Developer.</p>
-<img src="">
+<p>Na pasta landing page você irá encontrar o desafio proposto durante o Bootcamp DIO com NTT DATA Diversidade em Tech, o objetivo é construir uma page da DIO divulgando o curso CSS Developer.</p>
+<img src="https://github.com/LoLpezz/Projetos-DIO/blob/main/LandingPage/page.PNG">
